@@ -17,6 +17,7 @@ I made a score keeper app with HTML CSS and JAVSCRIPT
 
 - Semantic HTML5 markup
 - CSS custom properties
+- Bulma
 - Javascript
--jQuery
+- jQuery
 

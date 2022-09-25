@@ -1,5 +1,5 @@
 # Score-Keeper
-I made a score keeper app with HTML CSS and JAVSCRIPT
+I made a score keeper app with HTML CSS BULMA and JAVSCRIPT
 
 ### Screenshot
 

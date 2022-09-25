@@ -9,7 +9,7 @@ I made a score keeper app with HTML CSS and JAVSCRIPT
 ### Links
 
 - Solution URL: [https://github.com/Teke111/Score-Keeper]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://teke111.github.io/Score-Keeper/]
 
 ## My process
 
